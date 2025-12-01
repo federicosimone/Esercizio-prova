@@ -70,12 +70,15 @@
                             <a href="#" class="btn btn-success ms-3"><i class="fa-solid fa-bag-shopping fs-5 justify-content-center" id="cart"></i></a>
                         </div>
                     </div>
-                </div>`
+                </div>` ;
         html += card ;
     }
      cardsContainer.innerHTML= html ;
 
+     //let contatore = 0 ;
 
-
-
-
+     /*document.getElementById("preferiti").addEventListener("click",function() {
+        contatore++;
+        document.getElementById("desire-label").innerText = contatore
+        return 
+    )}*/
