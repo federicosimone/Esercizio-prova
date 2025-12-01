@@ -8,14 +8,14 @@
     "nome": "Espresso Frappuccinos",
     "prezzo": 4.5,
     "immagine": "https://www.starbucks.it/on/demandware.static/-/Library-Sites-StarbucksSharedLibrary/default/dw6ffa8c8c/images/staticPages/menu/Espresso_Frappuccino_Glass_1.jpg",
-    "descrizione": "Espresso, latte caldo e vaniglia con topping al caramello."
+    "descrizione": "Espresso, latte e vaniglia con topping al caramello."
   },
   {
     "id": 2,
     "nome": "Gingerbread Frappuccinos",
     "prezzo": 5.2,
     "immagine": "https://www.starbucks.it/on/demandware.static/-/Library-Sites-StarbucksSharedLibrary/default/dw19f1fc32/images/staticPages/menu/Gingerbread_Frappuccino_Glass.jpg",
-    "descrizione": "Frappuccino con scaglie di cioccolato e panna montata."
+    "descrizione": "Frappuccino con cioccolato e panna montata."
   },
   {
     "id": 3,

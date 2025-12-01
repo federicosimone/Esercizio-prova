@@ -7,3 +7,13 @@ main {
 .starbucks-color {
     color: rgb(0, 112, 64) ;
 }
+
+.label {
+    background-color: red;
+    color: white;
+    height: 15px;
+    width: 15px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 11px;
+}
